@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DogServiceTestSuite">
+    <test name="DogServiceTest">
+        <classes>
+            <class name="com.test.dogs.api.rest.service.DogServiceTest"/>
+        </classes>
+    </test>
+</suite>
+
