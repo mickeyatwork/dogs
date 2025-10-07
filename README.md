@@ -48,7 +48,7 @@ The leaving reason field is optional but, if provided, must be one of:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mickeyatwork/dogs.git
    cd dogs
    ```
 
